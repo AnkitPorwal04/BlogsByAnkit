@@ -30,8 +30,7 @@ function Dashboard() {
             <h1
               className="text-center font-bold text-2xl mb-2"
               style={{ color: mode === "dark" ? "white" : "black" }}
-            >
-              Ankit Porwal
+            >Ankit Porwal
             </h1>
 
             <h2
