@@ -76,7 +76,7 @@ function AllBlogs() {
                                                             ? 'rgb(226, 232, 240)'
                                                             : ' rgb(30, 41, 59)'
                                                     }}>
-                                                        Photo booth fam kinfolk cold-pressed sriracha leggings jianbing microdosing tousled waistcoat.
+                                                        Want to read? Click on the thumbnail and enjoy reading. Please comment your awesome reviews.
                                                     </p>
                                                 </div>
                                             </div>
