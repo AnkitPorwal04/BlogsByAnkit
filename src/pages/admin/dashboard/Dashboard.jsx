@@ -22,7 +22,7 @@ function Dashboard() {
           <div className="left">
             <img
               className=" w-40 h-40  object-cover rounded-full border-2 border-pink-600 p-1"
-              src={"https://cdn-icons-png.flaticon.com/128/3135/3135715.png"}
+              src={"./././public/download.png"}
               alt="profile"
             />
           </div>
@@ -50,7 +50,7 @@ function Dashboard() {
               style={{ color: mode === "dark" ? "white" : "black" }}
               className="font-semibold"
             >
-              <span>Total Blog : </span> 5
+              <span>Admin Id </span> Ankit04
             </h2>
             <div className=" flex gap-2 mt-2">
               <Link to={"/createblog"}>
