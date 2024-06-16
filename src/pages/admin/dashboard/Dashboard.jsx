@@ -22,7 +22,7 @@ function Dashboard() {
           <div className="left">
             <img
               className=" w-40 h-40  object-cover rounded-full border-2 border-pink-600 p-1"
-              src={"../../../public/download.png"}
+              src={"https://avatars.githubusercontent.com/u/96345105?v=4"}
               alt="profile"
             />
           </div>
