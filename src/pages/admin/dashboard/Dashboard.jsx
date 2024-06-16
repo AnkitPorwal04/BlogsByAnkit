@@ -22,7 +22,7 @@ function Dashboard() {
           <div className="left">
             <img
               className=" w-40 h-40  object-cover rounded-full border-2 border-pink-600 p-1"
-              src={"./././public/download.png"}
+              src={"../../../public/download.png"}
               alt="profile"
             />
           </div>
